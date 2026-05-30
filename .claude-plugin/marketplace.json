@@ -1,0 +1,11 @@
+{
+  "name": "ai-engineer-marketplace",
+  "owner": { "name": "Ritvik" },
+  "plugins": [
+    {
+      "name": "ai-engineer",
+      "source": "./plugins/ai-engineer",
+      "description": "Senior-engineer workflow: architect/reviewer/explorer/debugger subagents, a /build command, safety+format+test hooks, and a test-writing skill."
+    }
+  ]
+}
