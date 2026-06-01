@@ -1,6 +1,6 @@
 {
   "name": "ai-engineer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A senior-engineer workflow for Claude Code: an architect, code-reviewer, codebase-explorer, and debugger subagent, a /build orchestration command, a safety/format/test hook set, and a test-writing skill.",
   "author": { "name": "Ritvik" }
 }
